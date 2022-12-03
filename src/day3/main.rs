@@ -52,7 +52,7 @@ fn find_common_item_in_three_collections(
             }
         }
     }
-    panic!("there should always be a common item in the three compartments");
+    panic!("there should always be a common item in the three collections");
 }
 
 fn item_score(item: char) -> u64 {
